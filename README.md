@@ -136,7 +136,7 @@ YOUR_PI_IP_ADDRESS:5000
 ```
 You will need to login with the username "admin" and the password "splishsplosh". You will see something like this:
 
-![Website](https://www.dropbox.com/s/idwx8tkvhhqfvsd/Wiring.png?raw=1)
+![Website](https://www.dropbox.com/s/jzusskag3eoicao/Web.JPG?raw=1)
 
 If not check your logs. If you have any familiarity with writing webpages, you can edit the files found in "templates".
 
