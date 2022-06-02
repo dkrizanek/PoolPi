@@ -114,7 +114,7 @@ sudo crontab -e
 ```
 Add this line to the bottom:
 ```
-@reboot sh /home/pi/pool/launcher.sh > /home/pi/pool/logs/cronlog 2>&1
+@reboot sh /home/pi/PoolPi/launcher.sh > /home/pi/PoolPi/logs/cronlog 2>&1
 ```
 
 ### Reboot the pi

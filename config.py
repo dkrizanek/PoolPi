@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 #
 #
 # Author : Matt Hawkins
@@ -7,9 +7,9 @@
 # Modified more by: Shawn Peterson
 #
 #
-#-----------------------------------------------------------
+# -----------------------------------------------------------
 
-BASEPATH = '/home/pi/pool'
+BASEPATH = '/home/pi/PoolPi'
 
 # Set the number of seconds between each loop.
 # This determines how often the system checks the temperature.
